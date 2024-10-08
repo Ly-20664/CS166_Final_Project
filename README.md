@@ -78,5 +78,3 @@ Alternatively, you can contact me directly via email at Justinly0890@gmail.com t
 ## License
 This project is licensed under the .
 ```
-
-This README provides an overview of the project, a clear structure, setup instructions, and usage details based on the code and data you provided. Let me know if you'd like to tweak any sections!
